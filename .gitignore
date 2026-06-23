@@ -1,0 +1,6 @@
+.env
+supabaseKEY.env
+*.env
+.playwright-mcp/
+*.png
+*.txt
